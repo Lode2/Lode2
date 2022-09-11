@@ -1,5 +1,5 @@
 Hi, I'm Lode!
-My GitHub page is currently mostly for personal projects, which might end up being publicised.
+My GitHub page is currently mostly for personal projects, which might end up being published.
 
 I have experience in Python, JavaScript (also HTML and CSS) and Rust.
 
